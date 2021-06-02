@@ -54,6 +54,6 @@ torch==1.1.0
 torchvision==0.3.0
 tqdm==4.46.0
 transformers==2.10.0
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==1.0.1
 zipp==3.1.0
